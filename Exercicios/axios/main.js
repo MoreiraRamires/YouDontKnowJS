@@ -4,3 +4,4 @@ axios.get(`https://api.github.com/users/MoreiraRamires`).then(function (response
   console.log(response.data);
   console.log(response.status);
 });
+
