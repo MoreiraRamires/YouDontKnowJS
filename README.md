@@ -1,6 +1,3 @@
-
-Curso baseado no livro
-
 <h1 align="center">
     <img alt="#YouDontKnowJS" title="#YouDontKnowJS" src="./assets/banner.png" />
 </h1>
